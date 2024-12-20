@@ -87,5 +87,5 @@ The application provides:
 
 ## 🔗 Contact
 
-- Your Name - [your@email.com]
-- Project Link: [https://github.com/yourusername/mandelbrot-encryption]
+- Your Name - [timur.gab@gmail.com]
+- Project Link: [https://github.com/905timur/fractal-crypt]
