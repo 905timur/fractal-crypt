@@ -6,7 +6,7 @@ Version 1.0
 
 # Mandelbrot Fractal Encryption 🔐
 
-A novel encryption method using the Mandelbrot set to create ciphertext by mapping characters to complex plane coordinates. Built with Python, featuring a GUI for encryption, decryption, and fractal visualization.
+An encryption method using the Mandelbrot set to create ciphertext by mapping characters to complex plane coordinates. Built with Python, featuring a GUI for encryption, decryption, and fractal visualization.
 
 > ⚠️ **Note**: This is an experimental project for educational purposes. Not intended for production use or sensitive data encryption.
 
