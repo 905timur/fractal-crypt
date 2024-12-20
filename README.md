@@ -14,13 +14,13 @@ An encryption method using the Mandelbrot set to create ciphertext by mapping ch
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mandelbrot-encryption.git
+git clone https://github.com/905timur/fractal-crypt.git
 
 # Install dependencies
 pip install numpy matplotlib tkinter
 
 # Run the application
-python mandelbrot_encryption.py
+python fractal-crypt.py
 ```
 
 ## 🛠️ Features
